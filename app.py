@@ -25,8 +25,6 @@ predicted_price = model.predict(input_scaled)[0]
 
 if st.button("🔍 Predict Price"):
     st.success(f"💰 Estimated Price: ${predicted_price:,.2f}")
-if st.button("🔍 Predict Price"):
-    st.success(f"💰 Estimated Price: ${predicted_price:,.2f}")
 st.markdown("""
     <hr>
     <p style='text-align: center; font-size: 13px; color: #888;'>Made with ❤️ by Narasimha Manam</p>
