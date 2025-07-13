@@ -4,7 +4,7 @@ This Machine Learning project predicts house prices based on real-world housing 
 
 ---
 
-![App Banner](assets/banner.png)
+![App Banner](assets/Banner.png)
 
 ## 🔍 Overview
 
