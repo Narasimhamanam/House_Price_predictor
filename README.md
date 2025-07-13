@@ -45,7 +45,7 @@ This project demonstrates:
 
 ## 💡 App Preview
 
-<img src="assets/app-preview.png" alt="House Price Predictor App" width="800"/>
+<img src="https://housepricepredictorbynarasimhamanam.streamlit.app/" alt="House Price Predictor App" width="800"/>
 
 ---
 
