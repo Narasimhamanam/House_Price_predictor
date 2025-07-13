@@ -47,8 +47,6 @@ This project demonstrates:
 
 🔗 **Live Site:** [https://housepricepredictorbynarasimhamanam.streamlit.app/](https://housepricepredictorbynarasimhamanam.streamlit.app/)
 
-<img src="assets/liveat.png" alt="House Price Predictor App" width="800"/>
-
 ---
 
 ## 🧠 How it Works
